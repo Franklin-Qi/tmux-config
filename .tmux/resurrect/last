@@ -1,0 +1,10 @@
+pane	Programing	0	:Journey	0	:	0	:/home/yushuoqi	1	bash	:
+pane	Programing	1	:repos	1	:*Z	0	:/home/yushuoqi/code/sane-backends/sane-backends-1.0.29	0	vim	:vim backend/dll.c +908
+pane	Programing	1	:repos	1	:*Z	1	:/home/yushuoqi/code/kylin-scanner	1	bash	:
+pane	Programing	1	:repos	1	:*Z	2	:/home/yushuoqi/code/simple-scan/simple-scan-3.36.0	0	vim	:vim src/scanner.vala
+pane	Programing	1	:repos	1	:*Z	3	:/home/yushuoqi/code/work/kylin-scanner	0	tail	:tail -f /tmp/scanner/kylin-scanner.log
+pane	Programing	2	:scanner	0	:-	0	:/home/yushuoqi/code/kylin-photo-viewer	1	bash	:
+window	Programing	0	0	:	c8be,190x47,0,0,1
+window	Programing	1	1	:*Z	e189,190x47,0,0[190x23,0,0{95x23,0,0,2,94x23,96,0,3},190x23,0,24{95x23,0,24,4,94x23,96,24,6}]
+window	Programing	2	0	:-	c8c4,190x47,0,0,7
+state	Programing	
